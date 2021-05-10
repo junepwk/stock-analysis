@@ -53,5 +53,5 @@ The disadvantage to refactoring is the amount of time spent debugging errors and
 
 For this particular instance, the original script worked well with the green energy dataset provided.  It served as a solution for Steve as his parents were interested in investing in a green energy company.  With the refactored code, Steve would be able to utilize the same code to analyze any stock market in the future.  
 
-Aside from the hardship stated above, the disadvantages of refactoring the original script seems to be non-existent or minute as the refactored code improved the overall functionality.  The original script was much easier to write but the refactored code end result outweighs the cons.
+Aside from the hardship stated above, the disadvantages of refactoring the original script seems to be non-existent or minute as the refactored code improved the overall functionality.  The original script was much easier to write but the refactored code's end result outweighs the cons.
 
